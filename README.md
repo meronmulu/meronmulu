@@ -1,28 +1,56 @@
-<h1 align="center">Hi there👋, I'm Meron</h1>
-<h3 align="center">I am a full-stack developer and software engineer</h3>
+<h1 align="center">Hi 👋, I'm Meron Mulu</h1>
+<h3 align="center">🚀 Full-Stack Developer | Software Engineer</h3>
 
-- 🌱 I’m currently learning **flutter**
-- 📫 How to reach me **meronmulu2121@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/meron-mulu-307265286" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meron-mulu-307265286" height="30" width="40" /></a>
-<a href="https://instagram.com/meron_1.2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="meron_1.2" height="30" width="40" /></a>
+<p align="center">
+I build modern, scalable web and mobile applications.<br/>
+Currently focused on improving my mobile development skills with <b>Flutter</b>.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+### 🌱 Currently Learning
+- 📱 Flutter & Dart
+
+### 📫 Contact Me
+- Email: **meronmulu2121@gmail.com**
+
+---
+
+### 🤝 Connect with Me
+<p align="left">
+<a href="https://linkedin.com/in/meron-mulu-307265286" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+<a href="https://instagram.com/meron_1.2" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+</a>
+</p>
+
+---
+
+### 🛠️ Tech Stack
 
 #### 🌐 Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" alt="frontend skills" />
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
 </p>
 
 #### ⚙️ Backend & Database
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php,mysql" alt="backend skills" />
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php,mysql,postgres" />
 </p>
 
 #### 📱 Mobile & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,postman,git,vscode" alt="mobile and tools" />
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,postman,git,vscode" />
 </p>
+
+---
+
+### 💡 About Me
+- 💻 Passionate about building real-world projects
+- 📈 Always learning and improving my skills
+- 🤝 Open to collaboration and opportunities
+
+---
+
